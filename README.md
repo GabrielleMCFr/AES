@@ -73,7 +73,3 @@ addkey : add round key with xor operations
 Back into main, the output arrays are written into the output file. For the ciphertext, it's not going to be readable
 (and I didn't see the point to encode it in base64, since the whole point is to make informations hidden) but I let
 the choice of printing the hexadecimal values on screen.
-
-Thanks for reading !
-
-Gabrielle Marsallon-Courtaud
